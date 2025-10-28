@@ -1,6 +1,8 @@
 # r2_nakagawa_r
 Nakagawa's R-squared statistic for multilevel mixed-effects linear regression Use r2_nakagawa (performance) With (In) R Software
 
+https://www.youtube.com/watch?v=JaxWoD7CqMU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
